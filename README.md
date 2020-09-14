@@ -1,6 +1,13 @@
+## Simple project for React Hooks
+
+This small project can get the geolocation of the user, using the browser's Geolocation API. 
+It's intended to practice React Hooks. Output can be managed by tweaking the location sensors from Dev tools.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 In the project directory, you can run:
 
